@@ -330,7 +330,7 @@ a:hover{
     cursor: default;
   }
   #experience{
-    margin-top: -150px;
+    margin-top: 70px;
   
 
   }
@@ -345,7 +345,7 @@ a:hover{
 
   /* CONTACT */
   #contact{
-    margin-top: -20px;
+    margin-top: 20px;
   }
 
   .contact-info-upper-container {
@@ -357,6 +357,7 @@ a:hover{
     background: (250, 250, 250);
     margin: 2rem auto;
     padding: 0.5rem;
+    
   }
   
   .contact-info-container {
