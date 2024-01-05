@@ -7,6 +7,9 @@
   .about-container{
     flex-wrap: wrap ;
   }
+  .nav-links-container{
+margin-top: -110;
+  }
 
 }
 
