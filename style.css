@@ -167,7 +167,7 @@ a:hover{
     width: 400px;
     margin: auto 0;
  }
- .ssection__text{
+ .section__text{
     align-self: center;
     text-align: center;
  }
@@ -338,8 +338,23 @@ a:hover{
   /*project*/
 #project{
     margin-top: -20px;
+    
 }
+.projectes1{
+    font-weight: bold;
+    color: yellowgreen;
 
+}
+.projectes2{
+    font-weight: bold;
+    color: rgb(226, 43, 43);
+
+}
+.projectes3{
+    font-weight: bold;
+    color: rgb(19, 44, 234);
+
+}
 
 
 
@@ -359,6 +374,7 @@ a:hover{
     padding: 0.5rem;
     
   }
+
   
   .contact-info-container {
     display: flex;
