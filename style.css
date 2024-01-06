@@ -270,7 +270,7 @@ a:hover{
     display: flex;
   }
   .details-container-for-about{
-    border-radius: 1rem;
+    border-radius: .7rem;
     border: rgb(255, 11, 11) 0.1rem solid;
     border-color: rgb(3, 2, 2);
     background: (250, 250, 250);
@@ -295,6 +295,10 @@ a:hover{
   
 #experience {
     position: relative;
+  }
+  .exp{
+    font-weight: bolder;
+    color: black;
   }
   
   .experience-sub-title {
